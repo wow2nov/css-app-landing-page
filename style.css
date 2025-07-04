@@ -3,12 +3,13 @@
   margin: 0px;
 }
 
-.feature-section {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
+.feature-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 210px;
 }
 
 .feature-header {
@@ -145,6 +146,7 @@
 .nav-menu:hover {
   color: #642ba5;
   text-decoration: underline;
+
 
 }
 
